@@ -7,6 +7,7 @@ Skrip Encrypt Python Dengan Menggunakan Emoji
 ![ss](https://github.com/Arinaltopek/Encemoji/blob/main/Bukti/Bukti%20Encmoji.jpg) 
 
 # Encpyt Variabel
+![ss](https://github.com/Arinaltopek/Encemoji/blob/main/Bukti/Bukti%20Variabel.jpg) 
 
 # Terimakasih Kepada
 
